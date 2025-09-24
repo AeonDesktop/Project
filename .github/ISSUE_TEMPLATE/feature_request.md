@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Before you start**
-Please note, Aeon Desktop is a volunteer-led project that believes Open Source is most sustainable when development is primarily self-driven contributions. Volunteers are more productive when they're taking care of issues they directly want to see addressed. Therefore, we'd much rather see & help you fix this issue rather than read this request.
+Please note, Aeon Desktop is a volunteer-led project that believes Open Source is most sustainable when development is primarily through self-driven contributions. Volunteers are more productive when they're taking care of issues they directly want to see addressed. Therefore, we'd much rather see & help you fix this issue rather than read this request.
 
 If you do leave this request, please be prepared that it may not be addressed in a timely manner, as we will prioritise other issues first.
 
